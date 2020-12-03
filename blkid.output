@@ -1,0 +1,8 @@
+/dev/sr0: UUID="2018-07-23-13-32-07-00" LABEL="ISOIMAGE" TYPE="iso9660" PTTYPE="dos"
+/dev/vda1: UUID="0418829c-cf1e-4142-949e-d73ac8f6eec0" TYPE="ext4" PARTUUID="4453ae4b-01"
+/dev/loop0: TYPE="squashfs"
+/dev/loop1: TYPE="squashfs"
+/dev/loop2: TYPE="squashfs"
+/dev/loop3: TYPE="squashfs"
+/dev/loop4: TYPE="squashfs"
+/dev/loop5: TYPE="squashfs"
